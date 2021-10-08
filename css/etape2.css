@@ -1,0 +1,12 @@
+/* Le style pour site POMME  étape2 */
+
+body {background: green;
+margin: 10px 0;}
+
+#conteneu{
+    width: 500px ;
+    margin: 0 auto;
+}
+#header{
+    line-height: 250px;
+}
